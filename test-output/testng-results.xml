@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[hiiiiiii]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="102" started-at="2020-01-24T09:02:02Z" finished-at="2020-01-24T09:02:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="102" started-at="2020-01-24T09:02:02Z" finished-at="2020-01-24T09:02:02Z">
+      <class name="demomaven.demo">
+        <test-method status="PASS" signature="demo1()[pri:0, instance:demomaven.demo@5dfcfece]" name="demo1" duration-ms="29" started-at="2020-01-24T09:02:02Z" finished-at="2020-01-24T09:02:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[hiiiiiii]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+      </class> <!-- demomaven.demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
